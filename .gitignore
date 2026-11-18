@@ -1,0 +1,12 @@
+# downloaded raw data (re-downloaded by the notebook)
+data/
+outputs/
+*.zip
+
+# Vercel local state and tokens
+.vercel/
+.env*.local
+.env
+
+.DS_Store
+__pycache__/

@@ -1,0 +1,218 @@
+{
+ "AEK": {
+  "display": "AEK Athens",
+  "abbr": "AEK",
+  "color": "#ffff00",
+  "crest": "crests/aek.png"
+ },
+ "Roma": {
+  "display": "AS Roma",
+  "abbr": "ROMA",
+  "color": "#990a2c",
+  "crest": "crests/roma.png"
+ },
+ "Arsenal": {
+  "display": "Arsenal",
+  "abbr": "ARS",
+  "color": "#e20520",
+  "crest": "crests/ars.png"
+ },
+ "Aston Villa": {
+  "display": "Aston Villa",
+  "abbr": "AVL",
+  "color": "#660e36",
+  "crest": "crests/avl.png"
+ },
+ "Ath Madrid": {
+  "display": "Atlético Madrid",
+  "abbr": "ATM",
+  "color": "#ca3624",
+  "crest": "crests/atm.png"
+ },
+ "Barcelona": {
+  "display": "Barcelona",
+  "abbr": "BAR",
+  "color": "#990000",
+  "crest": "crests/bar.png"
+ },
+ "Bayern Munich": {
+  "display": "Bayern Munich",
+  "abbr": "MUN",
+  "color": "#dc052d",
+  "crest": "crests/mun.png"
+ },
+ "Bodo/Glimt": {
+  "display": "Bodo/Glimt",
+  "abbr": "BODO",
+  "color": "#FCEE33",
+  "crest": "crests/bodo.png"
+ },
+ "Dortmund": {
+  "display": "Borussia Dortmund",
+  "abbr": "DOR",
+  "color": "#ffee00",
+  "crest": "crests/dor.png"
+ },
+ "Club Brugge": {
+  "display": "Club Brugge",
+  "abbr": "BRU",
+  "color": "#0081ff",
+  "crest": "crests/bru.png"
+ },
+ "Como": {
+  "display": "Como",
+  "abbr": "COMO",
+  "color": "#4169E1",
+  "crest": "crests/como.png"
+ },
+ "Porto": {
+  "display": "FC Porto",
+  "abbr": "FCP",
+  "color": "#0000dd",
+  "crest": "crests/fcp.png"
+ },
+ "Fenerbahce": {
+  "display": "Fenerbahce",
+  "abbr": "FEN",
+  "color": "#ffff00",
+  "crest": "crests/fen.png"
+ },
+ "Feyenoord": {
+  "display": "Feyenoord",
+  "abbr": "FEY",
+  "color": "#ef2f24",
+  "crest": "crests/fey.png"
+ },
+ "Galatasaray": {
+  "display": "Galatasaray",
+  "abbr": "GAL",
+  "color": "#aa0031",
+  "crest": "crests/gal.png"
+ },
+ "Inter": {
+  "display": "Internazionale",
+  "abbr": "INT",
+  "color": "#00239c",
+  "crest": "crests/int.png"
+ },
+ "LASK": {
+  "display": "LASK",
+  "abbr": "LAS",
+  "color": "#ffffff",
+  "crest": "crests/las.png"
+ },
+ "Lens": {
+  "display": "Lens",
+  "abbr": "RCL",
+  "color": "#E91514",
+  "crest": "crests/rcl.png"
+ },
+ "Lille": {
+  "display": "Lille",
+  "abbr": "LILL",
+  "color": "#c2051b",
+  "crest": "crests/lill.png"
+ },
+ "Liverpool": {
+  "display": "Liverpool",
+  "abbr": "LIV",
+  "color": "#d11317",
+  "crest": "crests/liv.png"
+ },
+ "Man City": {
+  "display": "Manchester City",
+  "abbr": "MNC",
+  "color": "#99c5ea",
+  "crest": "crests/mnc.png"
+ },
+ "Man United": {
+  "display": "Manchester United",
+  "abbr": "MAN",
+  "color": "#da020e",
+  "crest": "crests/man.png"
+ },
+ "Napoli": {
+  "display": "Napoli",
+  "abbr": "NAP",
+  "color": "#0677d2",
+  "crest": "crests/nap.png"
+ },
+ "PSV Eindhoven": {
+  "display": "PSV Eindhoven",
+  "abbr": "PSV",
+  "color": "#ef2f24",
+  "crest": "crests/psv.png"
+ },
+ "Paris SG": {
+  "display": "Paris Saint-Germain",
+  "abbr": "PSG",
+  "color": "#011F68",
+  "crest": "crests/psg.png"
+ },
+ "RB Leipzig": {
+  "display": "RB Leipzig",
+  "abbr": "RBL",
+  "color": "#ffffff",
+  "crest": "crests/rbl.png"
+ },
+ "Betis": {
+  "display": "Real Betis",
+  "abbr": "BET",
+  "color": "#288A00",
+  "crest": "crests/bet.png"
+ },
+ "Real Madrid": {
+  "display": "Real Madrid",
+  "abbr": "RMA",
+  "color": "#ffffff",
+  "crest": "crests/rma.png"
+ },
+ "Sabah": {
+  "display": "Sabah",
+  "abbr": "SAB",
+  "color": "#000000",
+  "crest": "crests/sab.png"
+ },
+ "Shakhtar": {
+  "display": "Shakhtar Donetsk",
+  "abbr": "SHK",
+  "color": "#ff5900",
+  "crest": "crests/shk.png"
+ },
+ "Slavia Praha": {
+  "display": "Slavia Prague",
+  "abbr": "SLP",
+  "color": "#dc1f26",
+  "crest": "crests/slp.png"
+ },
+ "S. Bratislava": {
+  "display": "Slovan Bratislava",
+  "abbr": "SLB",
+  "color": "#81c0ff",
+  "crest": "crests/slb.png"
+ },
+ "Sp Lisbon": {
+  "display": "Sporting CP",
+  "abbr": "SCP",
+  "color": "#008127",
+  "crest": "crests/scp.png"
+ },
+ "Stuttgart": {
+  "display": "VfB Stuttgart",
+  "abbr": "VFB",
+  "color": "#ffffff",
+  "crest": "crests/vfb.png"
+ },
+ "Viking": {
+  "display": "Viking",
+  "abbr": "VFK",
+  "color": "#000080",
+  "crest": "crests/vfk.png"
+ },
+ "Villarreal": {
+  "display": "Villarreal",
+  "abbr": "VIL",
+  "color": "#ffff00",
+  "crest": "crests/vil.png"
+ }
+}
